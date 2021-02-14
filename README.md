@@ -1,5 +1,5 @@
 ### Profile MindustryModCreate
-* [MMC-Lib](https://github.com/MindustryModCreate/MMC-Lib)[![](https://jitpack.io/v/paulieg626/test-lib.svg)](https://jitpack.io/#paulieg626/test-lib)
+* [MMC-Lib](https://github.com/MindustryModCreate/MMC-Lib)[![](https://jitpack.io/v/MindustryModCreate/MMC-Lib.svg)](https://jitpack.io/#MindustryModCreate/MMC-Lib)
 
 #### Groups
 - [VKontakte](https://vk.com/mindustry_mod_create)
