@@ -1,4 +1,5 @@
 ### Profile MindustryModCreate
+* [MMC-Lib](https://github.com/MindustryModCreate/MMC-Lib)
 
 #### Groups
 - [VKontakte](https://vk.com/mindustry_mod_create)
