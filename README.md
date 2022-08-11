@@ -1,4 +1,5 @@
 ### Profile MindustryModCreate
+[![:)](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=000000&center=true&vCenter=true&lines=Mindustry+Mod+Create)](https://git.io/typing-svg)
 * [MMC-Lib](https://github.com/MindustryModCreate/MMC-Lib)[![](https://jitpack.io/v/MindustryModCreate/MMC-Lib.svg)](https://jitpack.io/#MindustryModCreate/MMC-Lib)
 
 #### Groups
