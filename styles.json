@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "name":"Белый цвет всего текста в редакторе",
+        "version":"0.0.1",
+        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/all1.style"
+    },
+    {
+        "name":"Цифры (int,float)",
+        "version":"0.0.1",
+        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/all2.style"
+    },
+    {
+        "name":"Variables (JS)",
+        "version":"0.0.1",
+        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js1.style"
+    },
+    {
+        "name":"Content class v1.0 (JS)",
+        "version":"0.0.1",
+        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js2.style"
+    },
+    {
+        "name":"Content class v2.0 (JS)",
+        "version":"0.0.1",
+        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js3.style"
+    }
+]
