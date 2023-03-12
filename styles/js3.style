@@ -1,0 +1,11 @@
+{
+  "regex": "\\b(LiquidSource|ItemSource|ForceProjector|StorageBlock|Wall|Conveyor|OverdriveProjector|Block|ItemTurret)\\b",
+  "file": ".js",
+  "color": "#89BDFF",
+  "method": "regex",
+  "name_file": "js3.style",
+  "name": "Content class v2.0 (JS)",
+  "default_textcolor": "null",
+  "version": "0.0.1",
+  "enabled": true
+}

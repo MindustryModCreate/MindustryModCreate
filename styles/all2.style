@@ -1,0 +1,11 @@
+{
+  "regex": "(\\b(\\d*[.]?\\d+)\\b)",
+  "file": "all",
+  "color": "#89BDFF",
+  "method": "setTextColor",
+  "name_file": "all2.style",
+  "name": "Цифры (int,float)",
+  "default_textcolor": "#FFFFFF",
+  "version": "0.0.1",
+  "enabled": true
+}

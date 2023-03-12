@@ -1,0 +1,11 @@
+{
+  "regex": "\\b(parseInt|parseFloat|Tex|Color|Draw|Team|Floatc|BasicBulletType|ContentType|run|print|ScrollPane|extend|Groups|Building|Styles|Icon|ImageButton|TextureRegionDrawable|BaseDialog|Number|Label|Core|Table|Fx|Vars|ClientLoadEvent|Events|Call|TextArea)\\b",
+  "file": ".js",
+  "color": "#89BDFF",
+  "method": "regex",
+  "name_file": "js2.style",
+  "name": "Content class v1.0 (JS)",
+  "default_textcolor": "null",
+  "version": "0.0.1",
+  "enabled": true
+}
