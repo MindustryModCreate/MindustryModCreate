@@ -3,30 +3,30 @@
         "name":"Белый цвет всего текста в редакторе",
         "name_file":"all1.style",
         "version":"0.0.1",
-        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/all1.style"
+        "url":"https://raw.githubusercontent.com/MindustryModCreate/MindustryModCreate/main/styles/all1.style"
     },
     {
         "name":"Цифры (int,float)",
         "name_file":"all2.style",
         "version":"0.0.1",
-        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/all2.style"
+        "url":"https://raw.githubusercontent.com/MindustryModCreate/MindustryModCreate/main/styles/all2.style"
     },
     {
         "name":"Variables (JS)",
         "name_file":"js1.style",
         "version":"0.0.1",
-        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js1.style"
+        "url":"https://raw.githubusercontent.com/MindustryModCreate/MindustryModCreate/main/styles/js1.style"
     },
     {
         "name":"Content class v1.0 (JS)",
         "name_file":"js2.style",
         "version":"0.0.1",
-        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js2.style"
+        "url":"https://raw.githubusercontent.com/MindustryModCreate/MindustryModCreate/main/styles/js2.style"
     },
     {
         "name":"Content class v2.0 (JS)",
         "name_file":"js3.style",
         "version":"0.0.1",
-        "url":"https://github.com/MindustryModCreate/MindustryModCreate/blob/main/styles/js3.style"
+        "url":"https://raw.githubusercontent.com/MindustryModCreate/MindustryModCreate/main/styles/js3.style"
     }
 ]
