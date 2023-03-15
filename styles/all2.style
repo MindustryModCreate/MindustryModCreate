@@ -7,5 +7,5 @@
   "name": "Числа (int,float)",
   "default_textcolor": "#FFFFFF",
   "version": "0.0.1",
-  "enabled": true
+  "enabled": false
 }
