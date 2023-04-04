@@ -2,10 +2,10 @@
   "regex": "(\\b(\\d*[.]?\\d+)\\b)",
   "file": "all",
   "color": "#89BDFF",
-  "method": "setTextColor",
+  "method": "regex",
   "name_file": "all2.style",
   "name": "Числа (int,float)",
-  "default_textcolor": "#FFFFFF",
+  "default_textcolor": "null",
   "version": "0.0.1",
-  "enabled": false
+  "enabled": true
 }
