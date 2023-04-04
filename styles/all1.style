@@ -1,11 +1,11 @@
 {
   "regex": "",
   "file": "all",
-  "color": "#FFFFFF",
+  "color": "null",
   "method": "setTextColor",
   "name_file": "all1.style",
   "name": "Белый цвет всего текста в редакторе",
   "default_textcolor": "#FFFFFF",
   "version": "0.0.1",
-  "enabled": true
+  "enabled": false
 }
