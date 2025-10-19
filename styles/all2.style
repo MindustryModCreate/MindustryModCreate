@@ -1,11 +1,11 @@
 {
-  "regex": "(\\b(\\d*[.]?\\d+)\\b)",
+  "regex": "(?<!\\w)\\b\\d*[.]?\\d+\\b(?!\\w)",
   "file": "all",
   "color": "#89BDFF",
   "method": "regex",
   "name_file": "all2.style",
   "name": "Числа (int,float)",
   "default_textcolor": "null",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "enabled": true
 }
