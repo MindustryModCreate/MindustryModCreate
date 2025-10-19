@@ -1,5 +1,5 @@
 {
-  "regex": "?<![\\w.])\\b\\d*[.]?\\d+\\b(?![\\w.]",
+  "regex": "(?<![\\w.])\\b\\d*[.]?\\d+\\b(?![\\w.])",
   "file": "all",
   "color": "#89BDFF",
   "method": "regex",
